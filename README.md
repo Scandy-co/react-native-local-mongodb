@@ -1,3 +1,5 @@
+## Note: This is a fork of the original react-native-local-mongodb. We've forked it because it had security vulnerabilities.
+
 **Embedded persistent or in memory database for react-native**. API is a subset of MongoDB's (NeDB).
 
 ## Installation, tests
